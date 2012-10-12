@@ -1,7 +1,7 @@
 {
   "name": "backbone.include",
-  "version": "0.1.1",
-  "main": "./dist/backbone.include.min.js",
+  "version": "0.1.2",
+  "main": ".backbone.include.js",
   "dependencies": {
     "backbone": "~0.9.2"
   }
