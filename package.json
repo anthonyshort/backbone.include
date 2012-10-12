@@ -1,7 +1,7 @@
 {
   "name": "backbone.include",
   "description": "Simple interface for mixins with Backbone",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "homepage": "https://github.com/anthonyshort/backbone.include",
   "author": {
     "name": "Anthony Short",
